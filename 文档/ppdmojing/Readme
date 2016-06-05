@@ -1,0 +1,15 @@
+说明文档
+请注意保留config文件夹并按照以下顺序运行scriptNew中文件
+1. "withEnviroment.R"
+2. "arrangeAndscoreFunctions.R"
+3. "c_data.R"
+4. "MakeRaws_backup.R"
+5. "dealGeneralNewXs.R"
+6. "dealEachSpecialNewXs_backup2.R"
+7. "dealLogInfo.R"
+8. "dealUserupdate.R"
+9. "saveData.R"
+10. "cvXgboost.R"
+11. "cvXgboost_GBLR.R"
+12. "predictModels.R"
+13. "essembling.R"
